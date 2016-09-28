@@ -1,12 +1,14 @@
-# Åª®Ñ·|¹L©¹¼v¤ù¤Î°Q½×
-# Unity
-|¥DÃD| ¥DÁ¿ªÌ | ³¹¸` | ³sµ² | °Q½×°Ï |
-| ------| ------ | ------ | :------: | :------: |
-| Unity Platformer 2D: Character Animations | ¤ı«ä¤¸ | 1 | [[Â²³ø](https://docs.google.com/presentation/d/1izJ8POcmN1WSrzkQgwZ32EdERUk4PnPl4fo7wDHFlLY/edit#slide=id.p)][[¼v¤ù](https://www.youtube.com/watch?v=yZ5hAKWQ7ZU&feature=youtu.be)] | [[¶Ç°eªù](https://github.com/onlinereadbook/bookunity/issues/2)] |
-| NGUI¤Jªù | ¤s®ü¤l | 2 | [[¼v¤ù](https://drive.google.com/file/d/0B5TQWPMizi8yRXl2M0VDaVpyT3M/view)] | [[¶Ç°eªù](https://github.com/onlinereadbook/bookunity/issues/3)] |
-| ª±Âà DoTween ®ÄªG | ¥j©ú¥° | 3 | [[¼v¤ù](https://www.youtube.com/watch?v=jbYXTLcgmYQ&feature=youtu.be)] | [[¶Ç°eªù](https://github.com/onlinereadbook/bookunity/issues/4)] |
-| ±q git ¤Jªù¨ì¹Î¶¤¦X§@ | ¶À«Û»Ê | 4 |[[Â²³ø](https://www.slideshare.net/secret/retavuvmp0Vbun)] [[¼v¤ù](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be)] | [[¶Ç°eªù](https://github.com/onlinereadbook/bookunity/issues/5)] |
-| ª«²z¼ÒÀÀ¤ŞÀº - °©µP³sÂê¤ÏÀ³¾÷Ãö | ªL§Ó©¾ | 5 | [[¼v¤ù](https://www.youtube.com/watch?v=1_ob4HVlaHQ)] | [[¶Ç°eªù](https://github.com/onlinereadbook/bookunity/issues/6)] |
+# è®€æ›¸æœƒéå¾€å½±ç‰‡åŠè¨è«–
+#laravel
+|ä¸»é¡Œ| ä¸»è¬›è€… | é€£çµ | è¨è«–å€ |
+| ------| ------ | :------: | :------: |
+| æ·ºè«‡Laravelæ¶æ§‹| ç´€ç›¸å®‰| [[ç°¡å ±](https://hackmd.io/s/H1y45T2w)]|[[å½±ç‰‡](https://www.facebook.com/polo13999/videos/10208615595541790/)](åªæœ‰part2)|
+| Laravel åŸºç¤å®‰è£å’Œè³‡æ–™å¤¾ä½ç½® |é»ƒä»²ç…’|  [[å½±ç‰‡](https://www.facebook.com/sktdeity/videos/10154368029131704/)] | [[å½±ç‰‡2](https://www.facebook.com/sktdeity/videos/10154368033086704/)] |
+| å­¸ Laravel ä¸€å®šè¦çŸ¥é“çš„ Restful Resourceèˆ‡demo | Hash Lin | [[ç°¡å ±](https://hackmd.io/p/SyHcq1jO#/)] | [[sample code](https://github.com/hashman/Laravel-Restful-demo)] || [[å½±ç‰‡]( https://www.facebook.com/liangshu.lin/videos/1409654889051736/)] | 
+| Laravel æ–°æ‰‹æŒ‡å—/åˆ©ç”¨Dockerä½ˆå»ºç’°å¢ƒ/å®˜æ–¹ç¯„ä¾‹ç°¡å–®ç© ğŸ˜
+Task List/èº«ä»½é©—è­‰åˆé«”é©— - JWT |BruceYang | 4 |[[ç°¡å ±](https://hackmd.io/p/BJn90xIF#/1)] |[[å½±ç‰‡](https://www.facebook.com/100000130527623/videos/1367999126547758/)] | [[å‚³é€é–€]()] |
+| ä¸€èµ·ä¾†è«‡è«‡laravelæ¶æ§‹ | å°¤å·è±ª | [[ç°¡å ±](http://slides.com/howtomakeaturn/laravel#/)] | [[å½±ç‰‡](https://www.youtube.com/watch?v=hPGzu2-xNPQ)] |
+| docker composer & larave| jack yeh | [[ç°¡å ±](https://hackmd.io/p/BkZ_6xxc#/)] | [[å½±ç‰‡](https://www.youtube.com/watch?v=7tB7lg1QC_o&feature=youtu.be)] |
 
 
 
