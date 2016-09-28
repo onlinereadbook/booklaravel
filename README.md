@@ -1,4 +1,4 @@
-# 歡迎大家加入線laravel讀書會
+# 歡迎大家加入線上laravel讀書會
 
 
 ### [其他線上讀書會](https://github.com/onlinereadbook/booknodejs/blob/master/線上讀書會列表/README.md)
