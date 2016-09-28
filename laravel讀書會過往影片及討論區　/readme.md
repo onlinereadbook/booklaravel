@@ -1,7 +1,7 @@
 # 讀書會過往影片及討論
 #laravel
 |主題| 主講者 | 連結1 | 連結2 |
-| ------| ------ | :------: | :------: |
+| ------| ------ | :---------: | :------: |
 | 淺談Laravel架構| 紀相安| [[簡報](https://hackmd.io/s/H1y45T2w)]|[[影片](https://www.facebook.com/polo13999/videos/10208615595541790/)](只有part2)|
 | Laravel 基礎安裝和資料夾位置 |黃仲煒|  [[影片1](https://www.facebook.com/sktdeity/videos/10154368029131704/)] | [[影片2](https://www.facebook.com/sktdeity/videos/10154368033086704/)] |
 | 學 Laravel 一定要知道的 Restful Resource與demo | Hash Lin | [[簡報](https://hackmd.io/p/SyHcq1jO#/)] | [[sample code](https://github.com/hashman/Laravel-Restful-demo)] | [[影片]( https://www.facebook.com/liangshu.lin/videos/1409654889051736/)] | 
