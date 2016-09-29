@@ -1,9 +1,12 @@
 # 歡迎大家加入線上laravel讀書會
 
 
+## [讀書會注意事項](http://goo.gl/d9cRJ9)
+
+### [讀書會過往影片及討論區](https://github.com/onlinereadbook/booklaravel/tree/master/laravel%E8%AE%80%E6%9B%B8%E6%9C%83%E9%81%8E%E5%BE%80%E5%BD%B1%E7%89%87%E5%8F%8A%E8%A8%8E%E8%AB%96%E5%8D%80)
+
 ### [其他線上讀書會](https://github.com/onlinereadbook/booknodejs/blob/master/線上讀書會列表/README.md)
 
-## [讀書會注意事項](http://goo.gl/d9cRJ9)
 
 每個人的部分
 
