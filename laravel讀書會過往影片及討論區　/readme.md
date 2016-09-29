@@ -8,8 +8,3 @@
 | Laravel 新手指南/利用Docker佈建環境/官方範例簡單玩Task List/身份驗證初體驗 - JWT |BruceYang | [[簡報](https://hackmd.io/p/BJn90xIF#/1)] |[[影片](https://www.facebook.com/100000130527623/videos/1367999126547758/)] | 
 | 一起來談談laravel架構 | 尤川豪 | [[簡報](http://slides.com/howtomakeaturn/laravel#/)] | [[影片](https://www.youtube.com/watch?v=hPGzu2-xNPQ)] |
 | docker composer & larave| jack yeh | [[簡報](https://hackmd.io/p/BkZ_6xxc#/)] | [[影片](https://www.youtube.com/watch?v=7tB7lg1QC_o&feature=youtu.be)] |
-
-
-
-
-
