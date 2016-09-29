@@ -1,6 +1,7 @@
 
 # 第二季 Laravel 讀書會
 >一起來學習Laravel吧!
+>[討論區](https://github.com/onlinereadbook/booklaravel/issues/4)
 
 ---
 

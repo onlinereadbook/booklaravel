@@ -1,5 +1,6 @@
 # 第一季 現代PHP導讀
 >導讀現代PHP導讀一書
+>[討論區](https://github.com/onlinereadbook/booklaravel/issues/3)
 
 ---
 
