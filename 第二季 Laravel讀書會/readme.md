@@ -51,7 +51,7 @@
 [Laravel新手村](https://www.facebook.com/100000130527623/videos/1367999126547758/)
 
 
-## 第四集
+## 第五集
 日期: 2016年8月19日 20:00  
 主講者:尤川豪
 主題:一起逛逛Laravel原始碼架構
@@ -62,7 +62,7 @@
 影片連結:
 [一起逛逛Laravel原始碼架構](https://www.youtube.com/watch?v=hPGzu2-xNPQ)
 
-## 第四集
+## 第六集
 日期: 2016年8月26日 20:00  
 主講者:jack yeh
 主題:My Experience in Laravel
